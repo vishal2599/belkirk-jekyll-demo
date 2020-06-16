@@ -78,5 +78,13 @@ fields:
   type: text
   hidden: true
   default: home
+- name: page_section
+  type: blocks
+  label: Page Section
+  template_types:
+  - highlights
+  config:
+    min: 
+    max: 
 pages:
 - index.md
