@@ -18,6 +18,7 @@ page_section:
     description: Testing Message
   - headline: Test 1
     description: Testing Message
+test_image: "/uploads/2020/06/16/ch3.jpg"
 menu:
   footer:
     identifier: _about
